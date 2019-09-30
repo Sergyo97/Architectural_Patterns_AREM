@@ -1,13 +1,13 @@
-package edu.eci.arem.demo;
+package edu.eci.arem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class APIAplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(APIAplication.class, args);
 	}
 
 }

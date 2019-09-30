@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - APIAplication",
+            "request": "launch",
+            "mainClass": "edu.eci.arem.APIAplication",
+            "projectName": "DEMO"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "edu.eci.arem.demo.DemoApplication",
+            "projectName": "DEMO"
+        }
+    ]
+}
